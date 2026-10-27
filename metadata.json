@@ -1,0 +1,7 @@
+{
+  "name": "SciencesPlay",
+  "description": "Révisez la mécanique, la programmation et les maths en jouant à des courses sur circuit et des tirs au but de foot !",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
